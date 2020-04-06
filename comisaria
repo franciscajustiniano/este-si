@@ -18,12 +18,12 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="4qB0m444tEIRO2sk7TjWmPKKtQNpOhcGkjN5PV3J">
 
-    <title>Comisaria Virtual</title>
+    <title>mundo magico</title>
     <meta name="description" content="Simple">
     <meta name="keywords" content="Simple">
 
     <!-- Styles -->
-    <link href="https://comisariavirtual.cl/css/app.css " rel="stylesheet">
+    <link href="https://mundo magico/css/app.css " rel="stylesheet">
 
     <meta name="google" content="notranslate"/>
 
@@ -41,9 +41,9 @@
             <div class="media">
                 <img class="align-self-center mr-3 logo"
                      src="https://comisariavirtual.cl/logos/logo28.png"
-                     alt="COMISARÍA VIRTUAL"/>
-                <div class="media-body align-self-center name-institution" style="color: #007328;"><!--Cambio Color nombre institucion-->
-                    <h5 style="color: #007328;" class="mt-1">COMISARÍA VIRTUAL</h5>
+                     alt="MUNDO MAGICO"/>
+                <div class="media-body align-self-center name-institution" style="color: #fc06d9;"><!--Cambio Color nombre institucion-->
+                    <h5 style="color: #fc06d9;" class="mt-1">MUNDO MAGICO</h5>
                     <p></p>
                 </div>
             </div>
